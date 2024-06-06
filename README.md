@@ -1,4 +1,4 @@
-# First Map Template Repository
+# Sam's First Map
 
 A template repository for getting started with map-making in GitHub Codespaces.
 
